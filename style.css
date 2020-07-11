@@ -76,11 +76,7 @@ body  {
     width: 200px;
     height: 40px;
     margin-right: 0; 
-    box-sizing: border-box;  
-    
-    
-   
-    
+    box-sizing: border-box;   
 }
  input,  #search {
     outline: none;
@@ -181,9 +177,7 @@ body  {
     float: left;
     text-align: left;
 }
-/*.hiddenmenu li:hover .hiddenmenu li, .hiddenmenu a {
-    background-color: #ffffff;
-    color: #2c71b8;}*/
+
 .hiddenmenu a:hover {
     background-color: #ffffff;   
     color: #2c71b8;
